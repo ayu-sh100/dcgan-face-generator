@@ -20,7 +20,7 @@ This project demystifies that by building a GAN from scratch and training it on 
 
 ## 📸 Sample Output
 
-> Once training completes, generated faces will be shown **inside the notebook** using matplotlib.
+Once training completes, generated faces will be shown **inside the notebook** using matplotlib.
 
 ---
 
