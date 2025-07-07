@@ -25,12 +25,12 @@ Once training completes, generated faces will be shown **inside the notebook** u
 ---
 
 ## 📂 Project Structure
-
+```
 dcgan-face-generator/
 ├── image_generation.ipynb
 ├── README.md
 └── .gitignore
-
+```
 ---
 
 ## 🧠 What You'll Learn
@@ -61,4 +61,23 @@ pip install -r requirements.txt
 ```
 
 ---
+
+## 🧪 How to Run
+
+1. 📥 **Download** the [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+2. 📂 **Extract the images** into a folder called `face/img_align_celeba/` inside your project directory:
+
+```
+dcgan-face-generator/
+├── face/
+│ └── img_align_celeba/
+│ ├── 000001.jpg
+│ ├── 000002.jpg
+│ └── ...
+```
+
+3. ▶️ **Run the Jupyter Notebook**  
+Open `image_generation.ipynb` using Jupyter Notebook, Google Colab, or VS Code and execute the cells sequentially.
+
 
