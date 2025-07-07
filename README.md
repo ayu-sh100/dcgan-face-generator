@@ -22,6 +22,8 @@ This project demystifies that by building a GAN from scratch and training it on 
 
 Once training completes, generated faces will be shown **inside the notebook** using matplotlib.
 
+![image](https://github.com/user-attachments/assets/703cd285-1503-4560-90ac-70bb9c6b44d5)
+
 ---
 
 ## 📂 Project Structure
@@ -79,5 +81,35 @@ dcgan-face-generator/
 
 3. ▶️ **Run the Jupyter Notebook**  
 Open `image_generation.ipynb` using Jupyter Notebook, Google Colab, or VS Code and execute the cells sequentially.
+
+---
+
+## 📌 Notes
+
+- The CelebA dataset is **not included** in this repo due to size constraints.
+- `.gitignore` excludes `.jpg` image files to avoid uploading datasets.
+
+---
+
+## ✨ Future Improvements
+
+- ⚡ Add GPU training toggle  
+- 📈 Add interactive plots (loss, sample evolution)  
+- 🧾 Add CLI for training custom datasets  
+- ⏱️ Support for PyTorch Lightning  
+
+---
+
+## 🤝 Contributing
+
+Suggestions and PRs are welcome! If you found this useful or want to improve it, feel free to contribute 🙌
+
+---
+
+## 🧑‍💻 Author
+
+Created by [@ayu-sh100](https://github.com/ayu-sh100)
+
+⭐ **Star the repo** if you liked it — and let others discover GANs too!
 
 
