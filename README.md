@@ -26,3 +26,39 @@ Once training completes, generated faces will be shown **inside the notebook** u
 
 ## 📂 Project Structure
 
+dcgan-face-generator/
+├── image_generation.ipynb
+├── README.md
+└── .gitignore
+
+---
+
+## 🧠 What You'll Learn
+
+✅ How GANs work — Generator vs Discriminator  
+✅ How to preprocess image data for deep learning  
+✅ How to train GANs **on CPU**  
+✅ How to visualize generated faces with matplotlib  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python 3.x
+- 🔦 PyTorch
+- 🎨 TorchVision
+- 📊 Matplotlib
+- 🚀 TQDM
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ayu-sh100/dcgan-face-generator.git
+cd dcgan-face-generator
+pip install -r requirements.txt
+```
+
+---
+
