@@ -5,7 +5,7 @@ Welcome to the world of AI-generated human faces!
 This project is a **Deep Convolutional Generative Adversarial Network (DCGAN)** implemented in **PyTorch**, capable of generating realistic human faces using the **CelebA dataset** — **no GPU needed!** 🧑‍💻✨
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Generative_adversarial_network_diagram.svg/1200px-Generative_adversarial_network_diagram.svg.png](https://discuss.pytorch.org/uploads/default/optimized/3X/6/e/6ec1a5685ba764e3bb313d1d18f2e0357f129d14_2_1380x444.png)" width="400" alt="DCGAN Architecture">
+  <img src="https://discuss.pytorch.org/uploads/default/original/3X/6/e/6ec1a5685ba764e3bb313d1d18f2e0357f129d14.png" width="400" alt="DCGAN Architecture">
 </p>
 
 ---
